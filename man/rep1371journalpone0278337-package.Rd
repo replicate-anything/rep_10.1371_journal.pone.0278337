@@ -8,6 +8,15 @@
 \description{
 Self-contained replication package for "Public support for global vaccine sharing in the COVID-19 pandemic: Evidence from Germany" (PLOS ONE, 2022; doi:10.1371/journal.pone.0278337). Provides analysis data, preparation scripts, table and figure builders, precomputed report artifacts, and tests.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/replicate-anything/rep-10.1371-journal.pone.0278337}
+  \item \url{https://replicate-anything.github.io/rep-10.1371-journal.pone.0278337/}
+  \item Report bugs at \url{https://github.com/replicate-anything/rep-10.1371-journal.pone.0278337/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Macartan Humphreys \email{macartan.humphreys@wzb.eu}
 

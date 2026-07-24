@@ -14,6 +14,6 @@ Filtered lines suitable for display.
 }
 \description{
 Package R files include \verb{#'} docs and \code{make_fig_1 <- make_figure_1} aliases
-for exports; those are not needed in the Code tab display.
+for exports; those are not needed in Code-tab-style display.
 }
 \keyword{internal}

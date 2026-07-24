@@ -4,13 +4,15 @@
 \alias{build_report}
 \title{Build all report artifacts into \verb{inst/report/artifacts/}}
 \usage{
-build_report(output_dir = NULL, ids = NULL)
+build_report(output_dir = NULL, ids = NULL, install_deps = TRUE)
 }
 \arguments{
 \item{output_dir}{Directory for generated files.}
 
 \item{ids}{Optional replication ids to build (e.g. \code{"tab_2"}). Default: all
 entries in \code{replication.yml}.}
+
+\item{install_deps}{Install missing CRAN dependencies when \code{TRUE}.}
 }
 \value{
 Invisibly, a manifest list.

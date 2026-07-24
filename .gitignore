@@ -5,3 +5,4 @@
 *.Rproj
 tests/testthat/Rplots.pdf
 tests/testthat/_snaps
+vignettes/*_cache/

@@ -15,6 +15,7 @@ read_replication_source(name, package = pkg_name())
 Character vector of source lines, or empty if not found.
 }
 \description{
-Read R source for a replication function from the package tree
+Used by the vignette helpers. Shiny / replicateEverything read
+\verb{inst/replication_code/} via replicateEverything::get_code().
 }
 \keyword{internal}

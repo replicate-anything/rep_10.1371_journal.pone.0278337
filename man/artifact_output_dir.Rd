@@ -14,6 +14,6 @@ Normalized directory path.
 }
 \description{
 Writes to \verb{inst/report/artifacts/} when building from a package source tree
-so \code{\link[=load_artifact]{load_artifact()}} and pkgdown can find files during development.
+so Shiny Display / pkgdown can find files during development.
 }
 \keyword{internal}
