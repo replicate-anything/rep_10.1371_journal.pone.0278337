@@ -4,7 +4,7 @@ paper:
   journal: PLOS ONE
   year: 2022
   authors: Ferdinand Geissler, Felix Hartmann, Macartan Humphreys, Heike Klüver, Johannes Giesecke
-  source_repo: https://github.com/wzb-ipi/vaccine_solidarity
+  source_repository: https://github.com/wzb-ipi/vaccine_solidarity
   package: rep1371journalpone0278337
   package_folder: rep-10.1371-journal.pone.0278337
   package_repo: replicate-anything/rep-10.1371-journal.pone.0278337
